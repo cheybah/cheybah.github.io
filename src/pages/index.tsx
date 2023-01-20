@@ -7,14 +7,6 @@ const App = () => {
     <Box bg="purple.100" minH="100vh">
       <TopBar />
       <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
-      <Header />
     </Box>
   );
 };
